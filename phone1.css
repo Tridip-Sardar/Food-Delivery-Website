@@ -1,0 +1,33 @@
+/* Navigation Bar */
+#navbar ul {
+    flex-direction: column;
+}
+
+#navbar ul li a {
+    padding: 12px 11px;
+    text-align: center;
+}
+
+/* Home Section  */
+#home h1 {
+    font-size: 2rem;
+}
+
+/* Services Section  */
+#services h1 {
+    font-size: 2rem;
+}
+
+/* Client Section  */
+#clients-section h1 {
+    font-size: 2rem;
+}
+
+.clients img {
+    height: 80px;
+}
+
+/* Contact Section  */
+#contact h1 {
+    font-size: 2rem;
+} 

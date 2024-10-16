@@ -1,0 +1,51 @@
+/* CSS Reset */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation Bar */
+#navbar {
+  flex-direction: column;
+}
+
+#navbar ul li a {
+  padding: 0 11px;
+}
+
+/* Home section */
+#home {
+  padding: 0;
+}
+
+#home p {
+  padding: 0 80px;
+}
+/* Services section */
+#services {
+  margin: 28px 0;
+}
+
+.our-services {
+  flex-direction: column;
+}
+
+/* Client Section */
+#clients-section {
+  margin: -21px 0;
+}
+
+.clients {
+  flex-direction: column;
+}
+.clients-item {
+  padding: 25px;
+}
+
+.clients img {
+  height: 100px;
+}
+/* Contact Section  */
+#contact h1 {
+  margin-bottom: 16px;
+}
